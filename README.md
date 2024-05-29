@@ -43,6 +43,3 @@ Download the Selenium Java Client Driver from the [Selenium Downloads](https://w
 
 ## Running the Test
 To run the test, ensure all dependencies are set up and execute the `WebTesting.java` file. The WebDriver will open the specified URL in the browser.
-
-## License
-This project is licensed under the MIT License.
