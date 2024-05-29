@@ -1,0 +1,19 @@
+Section 1: Multiple Choice Questions
+
+
+1. What is the main purpose of QA automation?
+   B) To perform repetitive tasks efficiently
+
+2. Which of the following is NOT a popular test automation framework?
+   D) Django
+   
+3. Which language is commonly used for writing Selenium WebDriver tests?
+   D) All of the above
+
+4. In Selenium, what method is used to find an element by its ID?
+   C) `findElement(By.id("id"))`
+
+5. Which of the following is a best practice in test automation?
+   C) Regularly updating and refactoring test scripts
+
+
